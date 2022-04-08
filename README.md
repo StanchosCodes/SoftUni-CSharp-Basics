@@ -14,3 +14,4 @@ Here you can easily access any solution by the used technique.
 8. [**For loop - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Basics/tree/main/More%20solutions%20from%20For%20Loop)
 9. [**While loop**](https://github.com/StanchosCodes/SoftUni-CSharp-Basics/tree/main/Solutions%20from%20While%20Loop)
 10. [**While loop - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Basics/tree/main/More%20solutions%20from%20While%20Loop)
+11. [**Nested loops**] (https://github.com/StanchosCodes/SoftUni-CSharp-Basics/tree/main/Solutions%20from%20Nested%20Loops)
