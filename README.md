@@ -17,3 +17,4 @@ Here you can easily access any solution by the used technique.
 11. [**Nested loops**](https://github.com/StanchosCodes/SoftUni-CSharp-Basics/tree/main/Solutions%20from%20Nested%20Loops)
 12. [**Nested loops - more solutions**](https://github.com/StanchosCodes/SoftUni-CSharp-Basics/tree/main/More%20%20solutions%20from%20Nested%20Loops)
 13. [**Exam preparation**](https://github.com/StanchosCodes/SoftUni-CSharp-Basics/tree/main/Exam%20preparation%20problems%20and%20solutions)
+14. [**Drawing figures with Loops**](https://github.com/StanchosCodes/SoftUni-CSharp-Basics/tree/main/Drawing%20figures%20with%20loops)
